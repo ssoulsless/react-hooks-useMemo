@@ -1,0 +1,1 @@
+simple example of usage useMemo() React hook
